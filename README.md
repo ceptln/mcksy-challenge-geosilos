@@ -12,6 +12,7 @@ General information about the business and about McKinsey.
   
 ## Individual Predictions
 Upload any of your pictures and check if there is a Silo in it.
+Some sample images can be downloaded here: https://drive.google.com/drive/folders/14EpX5njSfI254G4gDEBkfJcFMPp3_uCQ?usp=sharing
 
 ## Check your coordinates
 Check any coordinates worldwide and see if there are some silos at that given coordination.
