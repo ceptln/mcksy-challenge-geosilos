@@ -5,6 +5,8 @@ Usecases are to detect Silos and sell them their superior technology, or to iden
   
 🏆 This project was awarded the first price of the McKinsey hackathon.  
 
+Demoday slides can be found [here](https://docs.google.com/presentation/d/19Tem3NruoqfFIwsCpYlnHwt8Bn2sgvexMKMhE-QxqOQ/edit?usp=sharing).
+
 ## Homepage
 General information about the business and about McKinsey.  
   
